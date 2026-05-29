@@ -1,0 +1,28 @@
+```txt
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+joblib
+
+# NLP / Embeddings
+sentence-transformers
+faiss-cpu
+nltk
+
+# LLM / RAG
+ollama
+langchain
+
+# Audio / Transcription
+openai-whisper
+torch
+ffmpeg-python
+
+# Utilities
+tqdm
+requests
+```
